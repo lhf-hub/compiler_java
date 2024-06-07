@@ -16,7 +16,8 @@
 - souce.txt：测试用例
 - predictTable.txt：预测分析表的输出
 - syntaxParse.txt：语法分析过程的输出（状态栈、输入串、动作）
-- 
+- 其余输出均保留在控制台
+-
 - lexer_idea.md：词法分析的思路
 - syntax_idea.md：语法分析的思路
 - readme.md：项目说明
