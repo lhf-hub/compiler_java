@@ -1,0 +1,29 @@
+public class example
+{
+    int a = 90 ;
+    double b = 30.75 ;
+    public void fun() {
+        if ( a > b ) {
+            b = a + b ;
+        }
+        else {
+            a = a % b ;
+        }
+        int i ;
+        for ( i = 0 ; i < 10 ; i ++ ) {
+            a = a + i ;
+        }
+        while ( b < 100 ) {
+            b = b ++ ;
+        }
+        while ( a > 30 ) {
+            a = a - b ;
+        }
+    }
+}
+public class test {
+    public void main(String[] args) {
+        example e = new example() ;
+        e.fun() ;
+    }
+}

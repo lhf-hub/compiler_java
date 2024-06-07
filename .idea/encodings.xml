@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/grammar.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lexer.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/predict.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/predictTable.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/syntax.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/syntaxParse.txt" charset="GBK" />
+  </component>
+</project>
